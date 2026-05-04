@@ -14,8 +14,6 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
-- [2026-05-04-n8n-첫-워크플로우-자동화-구축-및-실행-메커니즘](n8n/2026-05-04-n8n-첫-워크플로우-자동화-구축-및-실행-메커니즘.md)
-
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
