@@ -29,6 +29,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-05-19-Python-역사와-인기-비결-심층-분석](python/2026-05-19-Python-역사와-인기-비결-심층-분석.md)
+
 - [2026-05-04-파이썬-리스트-컴프리헨션-성능-가독성-최적화](python/2026-05-04-파이썬-리스트-컴프리헨션-성능-가독성-최적화.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
