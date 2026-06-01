@@ -38,6 +38,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
+
+- [2026-06-01-n8n-기반-개인-인사이트-관리-자동화-구축](ai-agent/2026-06-01-n8n-기반-개인-인사이트-관리-자동화-구축.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
