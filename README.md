@@ -41,7 +41,7 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
-- [2026-06-06-에어비앤비-커머스-비즈니스-자동화-로드맵](ai-agent/2026-06-06-에어비앤비-커머스-비즈니스-자동화-로드맵.md)
+- [2026-06-06-AI-에이전트-기반-다중-비즈니스-순차-실행-전략](ai-agent/2026-06-06-AI-에이전트-기반-다중-비즈니스-순차-실행-전략.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 
