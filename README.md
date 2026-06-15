@@ -43,7 +43,7 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
-- [2026-06-15-MCP-AI-에이전트-표준-연결-프로토콜](ai-agent/2026-06-15-MCP-AI-에이전트-표준-연결-프로토콜.md)
+- [2026-06-15-MCP-AI-에이전트-연동-표준화-및-효율-극대화](ai-agent/2026-06-15-MCP-AI-에이전트-연동-표준화-및-효율-극대화.md)
 
 - [2026-06-06-다각화된-비즈니스-자동화-우선순위-설계](ai-agent/2026-06-06-다각화된-비즈니스-자동화-우선순위-설계.md)
 
