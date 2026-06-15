@@ -43,6 +43,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-06-15-Model-Context-Protocol-AI-에이전트의-표준-인터페이스](ai-agent/2026-06-15-Model-Context-Protocol-AI-에이전트의-표준-인터페이스.md)
+
 - [2026-06-06-다각화된-비즈니스-자동화-우선순위-설계](ai-agent/2026-06-06-다각화된-비즈니스-자동화-우선순위-설계.md)
 
 - [2026-06-06-에어비앤비-커머스-비즈니스-자동화-로드맵](ai-agent/2026-06-06-에어비앤비-커머스-비즈니스-자동화-로드맵.md)
