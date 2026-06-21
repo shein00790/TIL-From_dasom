@@ -43,6 +43,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-06-21-Obsidian-Wiki-기능-활용-가이드](ai-agent/2026-06-21-Obsidian-Wiki-기능-활용-가이드.md)
+
 - [2026-06-20-Obsidian과-Hermes-결합을-통한-지능형-지능-관리](ai-agent/2026-06-20-Obsidian과-Hermes-결합을-통한-지능형-지능-관리.md)
 
 - [2026-06-15-MCP-AI-에이전트-연동-표준화-및-효율-극대화](ai-agent/2026-06-15-MCP-AI-에이전트-연동-표준화-및-효율-극대화.md)
