@@ -43,6 +43,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-06-21-Obsidian-Wiki-기능을-활용한-지식-베이스-구축](ai-agent/2026-06-21-Obsidian-Wiki-기능을-활용한-지식-베이스-구축.md)
+
 - [2026-06-21-Obsidian-Wiki-기능-활용-가이드](ai-agent/2026-06-21-Obsidian-Wiki-기능-활용-가이드.md)
 
 - [2026-06-20-Obsidian과-Hermes-결합을-통한-지능형-지능-관리](ai-agent/2026-06-20-Obsidian과-Hermes-결합을-통한-지능형-지능-관리.md)
