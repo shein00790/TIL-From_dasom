@@ -43,7 +43,7 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
-- [2026-06-24-Hermes-LLM-에이전트를-활용한-Obsidian-지식-관리-자동화](ai-agent/2026-06-24-Hermes-LLM-에이전트를-활용한-Obsidian-지식-관리-자동화.md)
+- [2026-06-24-Hermes-LLM과-Obsidian-기반-지식-관리-시스템-구축](ai-agent/2026-06-24-Hermes-LLM과-Obsidian-기반-지식-관리-시스템-구축.md)
 
 - [2026-06-21-Obsidian-Wiki-기능을-활용한-지식-베이스-구축](ai-agent/2026-06-21-Obsidian-Wiki-기능을-활용한-지식-베이스-구축.md)
 
